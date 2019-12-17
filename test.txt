@@ -1,2 +1,3 @@
 a second file
 let's create a conflict
+by adding text simultaneously to the same document
